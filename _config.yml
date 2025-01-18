@@ -14,8 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Josh Moles
-email: your-email@example.com
-description: Personal Site
+description: Personal Site of Josh Moles
 domain: joshmoles.com
 baseurl: / # the subpath of your site, e.g. /blog
 url: https://joshmoles.com # the base hostname & protocol for your site, e.g. http://example.com
@@ -27,9 +26,14 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 
+author:
+  name: Josh Moles
+  email: "contact@joshmoles.com"
+
 minima:
   skin: solarized
   social_links:
+    - { platform: bluesky,  user_url: "https://bsky.app/profile/joshmoles.com" }
     - { platform: github,  user_url: "https://github.com/jmoles" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/josh-moles/" }
 
