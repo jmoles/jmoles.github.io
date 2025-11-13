@@ -1,0 +1,34 @@
+base_url = "https://joshmoles.com"
+title = "Josh Moles"
+description = "Personal Site of Josh Moles"
+default_language = "en"
+compile_sass = true
+build_search_index = false
+generate_feeds = true
+
+theme = "anemone"
+
+[markdown]
+highlight_code = true
+highlight_theme = "css"
+
+[extra]
+# Anemone theme specific configuration
+author = "Josh Moles"
+email = "contact@joshmoles.com"
+
+# Navigation links
+nav = [
+    { name = "About", url = "/about" },
+]
+
+# Social links for anemone theme
+social_links = [
+    { name = "Bluesky", url = "https://bsky.app/profile/joshmoles.com" },
+    { name = "GitHub", url = "https://github.com/jmoles" },
+    { name = "LinkedIn", url = "https://www.linkedin.com/in/josh-moles/" },
+]
+
+# Theme customization
+theme_color = "dark"
+show_reading_time = true
