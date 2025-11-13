@@ -17,9 +17,10 @@ highlight_theme = "css"
 author = "Josh Moles"
 email = "contact@joshmoles.com"
 
-# Navigation links
-nav = [
-    { name = "About", url = "/about" },
+# Header navigation (required by anemone theme)
+header_nav = [
+    { url = "/", name_en = "/home/" },
+    { url = "/about", name_en = "/about/" },
 ]
 
 # Social links for anemone theme
