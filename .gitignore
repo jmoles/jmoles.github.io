@@ -1,3 +1,7 @@
+# Zola build output
+public/
+
+# Old Jekyll files
 _site
 .sass-cache
 .jekyll-metadata
