@@ -20,7 +20,6 @@ email = "contact@joshmoles.com"
 # Header navigation (required by anemone theme)
 header_nav = [
     { url = "/", name_en = "/home/" },
-    { url = "/about", name_en = "/about/" },
 ]
 
 # Social links for anemone theme
