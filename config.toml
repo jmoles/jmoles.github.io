@@ -1,6 +1,6 @@
 base_url = "https://joshmoles.com"
 title = "Josh Moles"
-description = "Personal Site of Josh Moles"
+description = "Josh Moles"
 default_language = "en"
 compile_sass = true
 build_search_index = false

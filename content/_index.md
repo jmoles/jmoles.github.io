@@ -3,7 +3,7 @@ title = "Josh Moles"
 template = "index.html"
 +++
 
-# About Josh Moles
+# Josh Moles
 
 Computer engineer and technology enthusiast. Program manager at IonQ, working
 on the integration of classical and quantum computers (hybrid computing).
